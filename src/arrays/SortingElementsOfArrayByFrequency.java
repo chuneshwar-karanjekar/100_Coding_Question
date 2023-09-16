@@ -14,7 +14,6 @@ public class SortingElementsOfArrayByFrequency {
                         visited[j] = true;
                         freq++;
                     }
-
                 }
                 System.out.println(a[i] + " occurs " + freq + " times ");
         }

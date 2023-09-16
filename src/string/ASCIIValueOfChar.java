@@ -9,7 +9,5 @@ public class ASCIIValueOfChar {
         String n = sc.nextLine();
         char ch = n.charAt(0);
         System.out.println((int)ch);
-
-
     }
 }
